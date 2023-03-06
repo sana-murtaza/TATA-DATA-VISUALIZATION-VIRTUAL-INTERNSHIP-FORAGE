@@ -1,0 +1,27 @@
+# TASK 4
+Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
+
+You can use your work or the model answer from the previous task to develop your presentation.
+
+When writing your script, you should speak about your entire process, including the initial data load and clean-up steps so that your leaders know you’ve done your due diligence in providing error-free analysis. 
+Data analysis provides heaps of information but remember to focus on the information that is most important to your leaders.
+
+Your video should be approximately 5 minutes in length. You can record your video in the browser or upload a video from your device below.
+
+Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning. 
+
+You do not need to submit your script or talking points for this deliverable.
+
+Script:
+
+Good afternoon, I am Sana Ali and I appreciate the opportunity to share with you some insights on your company based on your queries. Your specific questions were helpful in guiding me towards the analysis that you need. I assure you that the analysis is based on accurate and up-to-date data. I made sure to clean the data by removing records with negative quantities and unit prices to provide you with useful insights.
+
+Firstly, I would like to address your query regarding the revenue trend to determine if retail sales are seasonal. Based on the data, there are specific months where sales are significant. The first eight months, from January to August, show stable revenue with an average of $685K per month. Revenue starts to increase in September, with a 40% growth compared to the previous month. This trend continues until November, with the highest revenue of $1.5 million for the entire year. Unfortunately, there is insufficient data for December to make inferences. This demonstrates that seasonality affects retail store sales, with the trend happening mainly in the last four months of the year.
+
+Secondly, I identified the top 10 countries with the most potential for growth, excluding the UK since it already has high demand. The data shows that the Netherlands, Ireland, Germany, and France have high sales of units and income. I recommend focusing on these nations to seize the potential for growth.
+
+Thirdly, I analyzed the top 10 consumers who made the most purchases from the company. There are not many differences in the purchases made by these consumers, and the highest revenue-generating consumer only spent 17% more than the second highest. This indicates that the company does not solely rely on a small number of consumers to generate income, and negotiations with consumers are limited, indicating a positive state of business.
+
+Lastly, I created a map chart that compares the places that generated the most revenue to those that did not, with the exception of the UK. The data shows that the Netherlands, Ireland, Germany, France, and Australia generate high profits, and the company should invest more in these nations to increase product demand. The map also reveals that most sales occur in the European zone, with only a few in the American region. There is no market for the products in Africa or Asia, along with Russia. Implementing a fresh strategy in these areas may increase sales revenue and profitability.
+
+Thank you for your time, and please do not hesitate to ask me any questions or request additional analysis after reviewing the material.
